@@ -3,5 +3,6 @@
 
 API de integração com o sistema QRPoint feita em Java
 
+Para o uso desta api, faça download do jar contido na pasta dist
 
 Documentação geral no site do [QRPoint](https://api.qrpoint.com.br/docs/)
