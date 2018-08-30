@@ -58,4 +58,8 @@
             <classpath refid="ApiQRPoint.classpath"/>
         </java>
     </target>
+    <target name="test">
+        <echo message="Test doesn't exist"/>
+    </target>
+
 </project>
