@@ -17,7 +17,11 @@ import br.com.qrpoint.api.configs.Constants;
 public class QRPointAPI {
 	ApiKey apiKey;
 	
-	
+	/**
+	 * Criação do objeto api, objeto responsável por realizar requests a api QRPoint
+	 * 
+	 * @param apiKey objeto api key válido
+	 */
 	public QRPointAPI(ApiKey apiKey) {
 		this.apiKey = apiKey;
 	}
