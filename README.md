@@ -18,7 +18,7 @@ Crie uma instância da classe **APIKey** existente no pacote _br.com.qrpoint.api
 
 ```java
 public APIKey createAPIKey(String YOUR_API_KEY) throws ApiKeyException {
-    APIKey apiKey = new br.com.qrpoint.api.ApiKey(YOUR_API_KEY);
+    APIKey apiKey = new ApiKey(YOUR_API_KEY);
 }
 ```
 Este método pode lançar uma ApiKeyException.
