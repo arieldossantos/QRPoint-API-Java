@@ -62,6 +62,6 @@ api.obterColaboradores("EMPREGADOR_COD");
 Utilize o método **obterRegistrosDePonto()** do seu objeto _QRPointAPI_ com uma String com o código do empregador como parâmetro. 
 
 ```java
-api.obterRegistrosDePonto("cod_empresa", ID_FUNCIONARIO, "DATA_INICIO", "DATA_FIM");
+api.obterRegistrosDePonto("EMPREGADOR_COD", ID_FUNCIONARIO, "DATA_INICIO", "DATA_FIM");
 ```
 
